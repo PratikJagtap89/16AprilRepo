@@ -4,7 +4,7 @@ public class ProjectClass1 {
 
 	public static void main (String [] args) {
 
-		System.out.println("hiii my new project");
+		System.out.println("hiii my old project");
 	}
 
 }
